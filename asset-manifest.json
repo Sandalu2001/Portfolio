@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.js": "/Sandalu-Portfolio/static/js/main.6dbc4d25.js",
-    "index.html": "/Sandalu-Portfolio/index.html",
-    "main.6dbc4d25.js.map": "/Sandalu-Portfolio/static/js/main.6dbc4d25.js.map"
+    "main.js": "/Portfolio.git/static/js/main.6dbc4d25.js",
+    "index.html": "/Portfolio.git/index.html",
+    "main.6dbc4d25.js.map": "/Portfolio.git/static/js/main.6dbc4d25.js.map"
   },
   "entrypoints": [
     "static/js/main.6dbc4d25.js"
