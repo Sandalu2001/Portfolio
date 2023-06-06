@@ -109,7 +109,7 @@ nav .nav-item{
 }
 
 .myPhoto .sandalu{
-    border-radius: 80%;
+    border-radius: 0%;
     z-index: 0;
     position: absolute;
 }
